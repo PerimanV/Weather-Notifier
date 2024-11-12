@@ -1,2 +1,8 @@
 # Weather-Notifier
-An app that sends a windows ntification to your homescreen without havign to visit a weather website
+A live weather desktop notifier of the daily weather 
+(currently set to Athens , my hometown)
+
+Requirements:
+- pip install bs4
+- pip install win10toast
+- pip install requests
